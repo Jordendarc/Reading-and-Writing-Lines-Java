@@ -1,5 +1,5 @@
-# Reading-and-Writing-Lines-Java
-This program reads lines in from a file, stores those lines into an array, sorts it, and then writes the array to a file
+# Reading-and-Writing-Lines-java
+This program reads lines in from a file, stores those lines into an array, sorts it, and then writes the array to a file using java
 
 The lines in the file have information seperated by "|" and the integer value of each line is located between the last two pipes.  Before simply sorting it by value, it makes sure the two values are in the same catagory.  The catagory is a string located between the first two pipes.
 
